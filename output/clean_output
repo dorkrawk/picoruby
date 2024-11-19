@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -f ./picoruby.o
+rm -f ./picoruby.s
+rm -f ./picoruby

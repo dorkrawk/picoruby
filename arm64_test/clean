@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -f add.o
+rm -f add
